@@ -66,13 +66,6 @@
 
 ---
 
-<h2>Concepts</h2>
-
-Data Structures & Algorithms  
-Problem Solving
-
----
-
 <h2>Language Usage</h2>
 
 <p align="center">

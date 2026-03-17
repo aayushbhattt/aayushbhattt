@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Aayush%20Bhatt&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f2027,50:203a43,100:2c5364&text=Aayush%20Bhatt&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=6F9EFF&center=true&vCenter=true&width=600&lines=Developer;Building+Projects;Learning+DSA;Exploring+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=6F9EFF&center=true&vCenter=true&width=600&lines=Developer;Building+Projects;Learning+DSA;Exploring+New+Technologies"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750676-0ce06c09-7b42-4f3a-b0e1-3c3d317790d7.gif"/>
 
-# Connect
+<h2 align="center">Connect</h2>
 
 <p align="center">
 
@@ -38,62 +38,56 @@
 
 ---
 
-# Languages
+<h2>Languages</h2>
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+<h2>Frameworks</h2>
+
+<p>
+
+<img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django&logoColor=white"/>
+
+</p>
+
+<h2>Databases</h2>
+
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+</p>
+
+<h2>Tools</h2>
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-111?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 </p>
 
 ---
 
-# Frameworks
-
-<p>
-
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django"/>
-
-</p>
-
----
-
-# Databases
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase"/>
-
-</p>
-
----
-
-# Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify"/>
-
-</p>
-
----
-
-# Concepts
+<h2>Concepts</h2>
 
 Data Structures & Algorithms  
 Problem Solving
 
 ---
 
-# Language Usage
+<h2>Language Usage</h2>
 
 <p align="center">
 
@@ -105,6 +99,6 @@ Problem Solving
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2c5364,100:0f2027&section=footer"/>
 
 </div>
